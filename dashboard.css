@@ -1,0 +1,22 @@
+.userTable{
+    border: 1px solid black;
+}
+h2{
+    color: rgb(23, 17, 78);
+}
+table{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+    
+}
+th{
+    border: 1px solid black;
+    background-color: rgb(110, 150, 150);
+    
+}
+td{
+    border: 1px solid black;
+    background-color: rgb(80, 243, 255);
+}
